@@ -12,3 +12,4 @@ The Spring AI project defines a configuration property named spring.ai.stability
 export SPRING_AI_STABILITYAI_API_KEY=<INSERT KEY HERE> or set it in Windows Env Variables!
 
 
+![Screenshot 2024-10-03 160854](https://github.com/user-attachments/assets/8148bf08-3f43-4963-a169-ffb60de9dea6)
